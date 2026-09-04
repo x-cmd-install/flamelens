@@ -7,7 +7,7 @@ about:
   head: 789af11
   archived: false
   latestVersion: v0.4.0
-  collectedAt: 2026-09-04T20:01:05Z
+  collectedAt: 2026-09-04T20:40:55Z
 timeline:
   created: 2024-06-01
   lastCommit: 2026-02-24
@@ -83,5 +83,48 @@ total:
   openIssue: 5
   commit: 169
 ---
+path: /home/runner/.x-repo/github.com/YS-L/flamelens
+collectedAt: 2026-09-04T20:40:56Z
+loc:
+  Json:
+    code: 3780
+    comments: 0
+    blanks: 0
+    files: 8
+  Rust:
+    code: 2747
+    comments: 182
+    blanks: 331
+    files: 13
+  Toml:
+    code: 40
+    comments: 8
+    blanks: 6
+    files: 2
+  Python:
+    code: 38
+    comments: 0
+    blanks: 14
+    files: 1
+  Sh:
+    code: 31
+    comments: 1
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 99
+    blanks: 47
+    files: 2
+  Text:
+    code: 0
+    comments: 123
+    blanks: 3
+    files: 5
+total:
+  code: 6636
+  comments: 504
+  blanks: 422
+  files: 32
 ---
 
