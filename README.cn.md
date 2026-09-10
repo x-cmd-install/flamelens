@@ -4,7 +4,7 @@
 
 Flamegraph viewer in the terminal
 
-![flamelens](https://repo.x-cmd.io/flamelens.svg)
+![flamelens](https://repo.x-cmd.io/flamelens.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,29 @@ x install flamelens
 - **最新版本**: `v0.4.0` (2026-02-24)
 - **最近提交**: 2026-02-24
 - **Release 含资产**: 18 个
-- **发布时间**: 2026-02-24T16:35:49Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dist-manifest.json](https://github.com/YS-L/flamelens/releases/download/v0.4.0/dist-manifest.json) | 24.3 KiB | `other` |
+| [flamelens-aarch64-apple-darwin.tar.xz](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-aarch64-apple-darwin.tar.xz) | 824.6 KiB | `native/darwin/arm64` |
+| [flamelens-aarch64-apple-darwin.tar.xz.sha256](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-aarch64-apple-darwin.tar.xz.sha256) | 105 B | `native/darwin/arm64` |
+| [flamelens-aarch64-pc-windows-msvc.zip](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-aarch64-pc-windows-msvc.zip) | 1.1 MiB | `native/win/arm64` |
+| [flamelens-aarch64-pc-windows-msvc.zip.sha256](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-aarch64-pc-windows-msvc.zip.sha256) | 105 B | `native/win/arm64` |
+| [flamelens-aarch64-unknown-linux-gnu.tar.xz](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-aarch64-unknown-linux-gnu.tar.xz) | 887.6 KiB | `native/linux/arm64/glibc` |
+| [flamelens-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-aarch64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/arm64/glibc` |
+| [flamelens-x86_64-apple-darwin.tar.xz](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-x86_64-apple-darwin.tar.xz) | 935.3 KiB | `native/darwin/x64` |
+| [flamelens-x86_64-apple-darwin.tar.xz.sha256](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-x86_64-apple-darwin.tar.xz.sha256) | 104 B | `native/darwin/x64` |
+| [flamelens-x86_64-pc-windows-msvc.zip](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-x86_64-pc-windows-msvc.zip) | 1.2 MiB | `native/win/x64` |
+| [flamelens-x86_64-pc-windows-msvc.zip.sha256](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-x86_64-pc-windows-msvc.zip.sha256) | 104 B | `native/win/x64` |
+| [flamelens-x86_64-unknown-linux-gnu.tar.xz](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-x86_64-unknown-linux-gnu.tar.xz) | 990.9 KiB | `native/linux/x64/glibc` |
+| [flamelens-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-x86_64-unknown-linux-gnu.tar.xz.sha256) | 109 B | `native/linux/x64/glibc` |
+| [flamelens-x86_64-unknown-linux-musl.tar.xz](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-x86_64-unknown-linux-musl.tar.xz) | 1.0 MiB | `native/linux/x64/musl` |
+| [flamelens-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-x86_64-unknown-linux-musl.tar.xz.sha256) | 110 B | `native/linux/x64/musl` |
+| [sha256.sum](https://github.com/YS-L/flamelens/releases/download/v0.4.0/sha256.sum) | 821 B | `other` |
+| [source.tar.gz](https://github.com/YS-L/flamelens/releases/download/v0.4.0/source.tar.gz) | 3.1 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/YS-L/flamelens/releases/download/v0.4.0/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 流行度
 
@@ -61,4 +83,4 @@ flamelens 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:23:23Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:53:16Z._
