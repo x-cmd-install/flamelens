@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 24907,
       "digest": "sha256:cd5b0a95bb386f1f70cb3a11d3645f67233a3409389ae60d63a7d3bc42752a5c",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-02-24T16:35:47Z",
       "updated_at": "2026-02-24T16:35:47Z",
       "browser_download_url": "https://github.com/YS-L/flamelens/releases/download/v0.4.0/dist-manifest.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 908928,
       "digest": "sha256:33be4ffd15a84b50e5b2fb3a14762289e7c3048d59b001dda7d5aa34b47c2dc4",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-02-24T16:35:48Z",
       "updated_at": "2026-02-24T16:35:48Z",
       "browser_download_url": "https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-aarch64-unknown-linux-gnu.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:8916170e6807d02501c9ca434f6f6a29b2ac37af0b7171188854a62841cfea38",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-02-24T16:35:48Z",
       "updated_at": "2026-02-24T16:35:48Z",
       "browser_download_url": "https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 1212055,
       "digest": "sha256:ed32e5885a5ee88b4a8471c50b29c35e002db409fbdeb249a4c558d9feee5885",
-      "download_count": 135,
+      "download_count": 136,
       "created_at": "2026-02-24T16:35:48Z",
       "updated_at": "2026-02-24T16:35:48Z",
       "browser_download_url": "https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-x86_64-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1014632,
       "digest": "sha256:dcf50bd10af4a322c6badb121eb511d6e3afb01352609230cc9e83010ee3276b",
-      "download_count": 611,
+      "download_count": 613,
       "created_at": "2026-02-24T16:35:48Z",
       "updated_at": "2026-02-24T16:35:48Z",
       "browser_download_url": "https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-x86_64-unknown-linux-gnu.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 109,
       "digest": "sha256:dc8788835267f52544e7787e620aac041ce179633128d8e01c8dbabe3b4b2ee9",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-02-24T16:35:48Z",
       "updated_at": "2026-02-24T16:35:48Z",
       "browser_download_url": "https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 1083836,
       "digest": "sha256:df8262e9711806326110e2794a87e09d9207fcc0b70db50d661dbb0a504deeef",
-      "download_count": 150,
+      "download_count": 151,
       "created_at": "2026-02-24T16:35:48Z",
       "updated_at": "2026-02-24T16:35:48Z",
       "browser_download_url": "https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-x86_64-unknown-linux-musl.tar.xz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:e9ce6d7bd4d8831ae9a09ef123322374ec9f17df55a450ab6fee32dd8d4ec48e",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-02-24T16:35:48Z",
       "updated_at": "2026-02-24T16:35:49Z",
       "browser_download_url": "https://github.com/YS-L/flamelens/releases/download/v0.4.0/flamelens-x86_64-unknown-linux-musl.tar.xz.sha256"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 821,
       "digest": "sha256:2e0e351749ebfe595896acd1f530da096d4d4cbb7436d577f691e32174e00a34",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-02-24T16:35:48Z",
       "updated_at": "2026-02-24T16:35:49Z",
       "browser_download_url": "https://github.com/YS-L/flamelens/releases/download/v0.4.0/sha256.sum"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3270794,
       "digest": "sha256:cccb9eb1d303bf2cd0fe3a1bf4d3a0ece4bcce85332571d832b03f151da5ca41",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-02-24T16:35:49Z",
       "updated_at": "2026-02-24T16:35:49Z",
       "browser_download_url": "https://github.com/YS-L/flamelens/releases/download/v0.4.0/source.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 81,
       "digest": "sha256:1b37dcb96a06baa3e726d6332e06cb9151ea9ce82e1d4dc21354e422fc0bd510",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-02-24T16:35:49Z",
       "updated_at": "2026-02-24T16:35:49Z",
       "browser_download_url": "https://github.com/YS-L/flamelens/releases/download/v0.4.0/source.tar.gz.sha256"
