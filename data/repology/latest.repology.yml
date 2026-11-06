@@ -71,8 +71,8 @@
   srcname: flamelens-git
   binname: flamelens-git
   visiblename: flamelens-git
-  version: 0.4.0.r0.g789af11
-  origversion: 0.4.0.r0.g789af11-1
+  version: 0.1.0.r5.ge15be2f
+  origversion: 0.1.0.r5.ge15be2f-1
   status: rolling
   summary: Flamegraph viewer in the terminal
   maintainers:
