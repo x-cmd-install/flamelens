@@ -86,6 +86,28 @@
   origversion: null
   status: newest
   summary: Flamegraph viewer in the terminal
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: flamelens
+  binname: flamelens
+  visiblename: flamelens
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: newest
+  summary: Flamegraph viewer in the terminal
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: flamelens
+  binname: flamelens
+  visiblename: flamelens
+  version: 0.4.0
+  origversion: 0.4.0-2
+  status: newest
+  summary: Flamegraph viewer in the terminal
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: flamelens
