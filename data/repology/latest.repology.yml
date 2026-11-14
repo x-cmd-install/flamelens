@@ -1,3 +1,14 @@
+- repo: nix_stable_26_05
+  srcname: flamelens
+  visiblename: flamelens
+  version: 0.4.0
+  origversion: null
+  status: newest
+  summary: Interactive flamegraph viewer in the terminal
+  maintainers:
+    - aaron@verdow.com
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: flamelens
@@ -72,7 +83,7 @@
   binname: flamelens-git
   visiblename: flamelens-git
   version: 0.1.0.r5.ge15be2f
-  origversion: 0.1.0.r5.ge15be2f-1
+  origversion: 0.1.0.r5.ge15be2f-2
   status: rolling
   summary: Flamegraph viewer in the terminal
   maintainers:
@@ -136,17 +147,6 @@
   version: 0.3.1
   origversion: null
   status: outdated
-  summary: Interactive flamegraph viewer in the terminal
-  maintainers:
-    - aaron@verdow.com
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: flamelens
-  visiblename: flamelens
-  version: 0.4.0
-  origversion: null
-  status: newest
   summary: Interactive flamegraph viewer in the terminal
   maintainers:
     - aaron@verdow.com
